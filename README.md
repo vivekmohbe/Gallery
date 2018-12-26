@@ -1,4 +1,4 @@
-To run this gallery project
+To run this Gallery project
 
 pip3 install all Dependencies form GAllERY
 pip3 install -r requirements.txt
